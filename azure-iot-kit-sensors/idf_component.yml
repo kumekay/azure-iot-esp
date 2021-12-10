@@ -1,0 +1,7 @@
+version: "1.0.0"
+description: "Azure IoT Kit Sensors Init code"
+dependencies:
+  # https://components.espressif.com/component/espressif/esp32_azure_iot_kit
+  espressif/esp32_azure_iot_kit:
+    version: ">=0.0.7-alpha"
+    public: true

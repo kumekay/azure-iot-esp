@@ -1,0 +1,9 @@
+[submodule "azure-iot-middleware-freertos/azure-iot-middleware-freertos"]
+	path = azure-iot-middleware-freertos/azure-iot-middleware-freertos
+	url = https://github.com/Azure/azure-iot-middleware-freertos.git
+[submodule "coreMQTT/coreMQTT"]
+	path = coreMQTT/coreMQTT
+	url = https://github.com/FreeRTOS/coreMQTT.git
+[submodule "azure-sdk-for-c/azure-sdk-for-c"]
+	path = azure-sdk-for-c/azure-sdk-for-c
+	url = https://github.com/Azure/azure-sdk-for-c.git

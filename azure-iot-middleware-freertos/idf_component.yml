@@ -1,0 +1,10 @@
+version: "1.0.0"
+description: "Azure IoT Hub Middleware for FreeRTOS"
+url: https://github.com/Azure/azure-iot-middleware-freertos
+dependencies:
+  azure/azure-iot-sdk-c:
+    version: "1.0.0"
+  azure/coreMQTT:
+    version: "1.0.0"
+exclude:
+  - 'azure-iot-middleware-freertos/libraries/**/*'
